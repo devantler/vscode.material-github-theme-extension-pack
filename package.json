@@ -1,0 +1,16 @@
+{
+    "name": "material-github-theme-extension-pack",
+    "displayName": "Material GitHub Theme Extension Pack",
+    "description": "A collection of theme specific extensions that extend the official GitHub Theme Extension",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "pkief.material-icon-theme",
+        "github.github-vscode-theme"
+    ]
+}
