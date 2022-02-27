@@ -1,13 +1,13 @@
 {
     "name": "material-github-theme-extension-pack",
-    "publisher": "niem94",
+    "publisher": "devantler",
     "displayName": "Material GitHub Theme Extension Pack",
-    "description": "A collection of theme specific extensions that extend the official GitHub Theme Extension",
-    "version": "0.0.1",
+    "description": "A collection of theme specific extensions that extend the official GitHub Theme Extension.",
+    "version": "1.0.0",
     "icon": "resources/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/niem94/vscode.material-github-theme-extension-pack"
+        "url": "https://github.com/devantler/vscode.material-github-theme-extension-pack"
     },
     "engines": {
         "vscode": "^1.58.0"
